@@ -15,9 +15,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Download the latest CSV files
         run: |
-          set -e
           for f in crop-yields.csv crop-prices.csv crop-production.csv; do
-            curl -fsSL -A "data-sync (+https://github.com/2217040/us-crop-yields-prices-by-state)" "https://greenmatrix.digital/data/$f" -o "data/$f.new"
+            if ! curl -fsSL --retry 2 -A "data-sync (+https://github.com/2217040/us-crop-yields-prices-by-state)" "https://greenmatrix.digital/data/$f" -o "data/$f.new"; then echo "::warning::$f could not be downloaded, keeping the old file"; rm -f "data/$f.new"; continue; fi
             if [ "$(wc -l < "data/$f.new")" -gt 5 ]; then mv "data/$f.new" "data/$f"; else echo "$f too short, keeping the old file"; rm "data/$f.new"; fi
           done
       - name: Commit if anything changed
