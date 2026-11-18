@@ -1,0 +1,756 @@
+state,state_code,crop,year,yield,unit,us_average,usda_period,is_forecast,page
+Alabama,AL,Corn,2020,158,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/al/corn/
+Alabama,AL,Corn,2021,163,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/al/corn/
+Alabama,AL,Corn,2022,118,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/al/corn/
+Alabama,AL,Corn,2023,164,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/al/corn/
+Alabama,AL,Corn,2024,112,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/al/corn/
+Alabama,AL,Corn,2025,152,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/al/corn/
+Alabama,AL,Corn,2026,149,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/al/corn/
+Alabama,AL,Cotton,2020,790,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/al/cotton/
+Alabama,AL,Cotton,2021,826,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/al/cotton/
+Alabama,AL,Cotton,2022,930,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/al/cotton/
+Alabama,AL,Cotton,2023,937,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/al/cotton/
+Alabama,AL,Cotton,2024,816,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/al/cotton/
+Alabama,AL,Cotton,2025,948,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/al/cotton/
+Alabama,AL,Cotton,2026,856,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/al/cotton/
+Alabama,AL,Soybeans,2020,41,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/al/soybeans/
+Alabama,AL,Soybeans,2021,46,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/al/soybeans/
+Alabama,AL,Soybeans,2022,41,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/al/soybeans/
+Alabama,AL,Soybeans,2023,43,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/al/soybeans/
+Alabama,AL,Soybeans,2024,31,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/al/soybeans/
+Alabama,AL,Soybeans,2025,37,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/al/soybeans/
+Alabama,AL,Soybeans,2026,40,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/al/soybeans/
+Alabama,AL,Wheat,2020,72,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/al/wheat/
+Alabama,AL,Wheat,2021,83,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/al/wheat/
+Alabama,AL,Wheat,2022,72,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/al/wheat/
+Alabama,AL,Wheat,2023,75,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/al/wheat/
+Alabama,AL,Wheat,2024,71,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/al/wheat/
+Alabama,AL,Wheat,2025,71,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/al/wheat/
+Alabama,AL,Wheat,2026,79,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/al/wheat/
+Arkansas,AR,Corn,2020,184,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/ar/corn/
+Arkansas,AR,Corn,2021,184,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/ar/corn/
+Arkansas,AR,Corn,2022,173,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/ar/corn/
+Arkansas,AR,Corn,2023,183,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/ar/corn/
+Arkansas,AR,Corn,2024,187,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/ar/corn/
+Arkansas,AR,Corn,2025,182,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/ar/corn/
+Arkansas,AR,Corn,2026,190,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ar/corn/
+Arkansas,AR,Cotton,2020,1179,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/ar/cotton/
+Arkansas,AR,Cotton,2021,1248,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/ar/cotton/
+Arkansas,AR,Cotton,2022,1189,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/ar/cotton/
+Arkansas,AR,Cotton,2023,1295,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/ar/cotton/
+Arkansas,AR,Cotton,2024,1341,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/ar/cotton/
+Arkansas,AR,Cotton,2025,1239,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/ar/cotton/
+Arkansas,AR,Cotton,2026,1384,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ar/cotton/
+Arkansas,AR,Soybeans,2020,51.5,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/ar/soybeans/
+Arkansas,AR,Soybeans,2021,52,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/ar/soybeans/
+Arkansas,AR,Soybeans,2022,52,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/ar/soybeans/
+Arkansas,AR,Soybeans,2023,54,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/ar/soybeans/
+Arkansas,AR,Soybeans,2024,55,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/ar/soybeans/
+Arkansas,AR,Soybeans,2025,55,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/ar/soybeans/
+Arkansas,AR,Soybeans,2026,56,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ar/soybeans/
+Arkansas,AR,Wheat,2020,55,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/ar/wheat/
+Arkansas,AR,Wheat,2021,58,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/ar/wheat/
+Arkansas,AR,Wheat,2022,53,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/ar/wheat/
+Arkansas,AR,Wheat,2023,57,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/ar/wheat/
+Arkansas,AR,Wheat,2024,56,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/ar/wheat/
+Arkansas,AR,Wheat,2025,57,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/ar/wheat/
+Arkansas,AR,Wheat,2026,56,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/ar/wheat/
+California,CA,Corn,2020,187,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/ca/corn/
+California,CA,Corn,2021,188,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/ca/corn/
+California,CA,Corn,2022,177,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/ca/corn/
+California,CA,Corn,2023,178,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/ca/corn/
+California,CA,Corn,2024,182,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/ca/corn/
+California,CA,Corn,2025,173,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/ca/corn/
+California,CA,Cotton,2020,1645,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/ca/cotton/
+California,CA,Cotton,2021,1596,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/ca/cotton/
+California,CA,Cotton,2022,1612,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/ca/cotton/
+California,CA,Cotton,2023,1438,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/ca/cotton/
+California,CA,Cotton,2024,1293,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/ca/cotton/
+California,CA,Cotton,2025,1767,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/ca/cotton/
+California,CA,Cotton,2026,1643,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ca/cotton/
+California,CA,Wheat,2020,77.2,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/ca/wheat/
+California,CA,Wheat,2021,87.1,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/ca/wheat/
+California,CA,Wheat,2022,85.3,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/ca/wheat/
+California,CA,Wheat,2023,86,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/ca/wheat/
+California,CA,Wheat,2024,84.4,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/ca/wheat/
+California,CA,Wheat,2025,90.4,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/ca/wheat/
+California,CA,Wheat,2026,83.4,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/ca/wheat/
+Colorado,CO,Corn,2020,116,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/co/corn/
+Colorado,CO,Corn,2021,129,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/co/corn/
+Colorado,CO,Corn,2022,121,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/co/corn/
+Colorado,CO,Corn,2023,122,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/co/corn/
+Colorado,CO,Corn,2024,116,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/co/corn/
+Colorado,CO,Corn,2025,133,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/co/corn/
+Colorado,CO,Corn,2026,93,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/co/corn/
+Colorado,CO,Sorghum,2020,20,bu/acre,73.2,YEAR,no,https://greenmatrix.digital/crop/co/sorghum/
+Colorado,CO,Sorghum,2021,37,bu/acre,69,YEAR,no,https://greenmatrix.digital/crop/co/sorghum/
+Colorado,CO,Sorghum,2022,20,bu/acre,41.1,YEAR,no,https://greenmatrix.digital/crop/co/sorghum/
+Colorado,CO,Sorghum,2023,32,bu/acre,52,YEAR,no,https://greenmatrix.digital/crop/co/sorghum/
+Colorado,CO,Sorghum,2024,30,bu/acre,61.3,YEAR,no,https://greenmatrix.digital/crop/co/sorghum/
+Colorado,CO,Sorghum,2025,52,bu/acre,72.6,YEAR,no,https://greenmatrix.digital/crop/co/sorghum/
+Colorado,CO,Sorghum,2026,32,bu/acre,52.4,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/co/sorghum/
+Colorado,CO,Wheat,2020,27,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/co/wheat/
+Colorado,CO,Wheat,2021,37,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/co/wheat/
+Colorado,CO,Wheat,2022,25,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/co/wheat/
+Colorado,CO,Wheat,2023,41,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/co/wheat/
+Colorado,CO,Wheat,2024,35,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/co/wheat/
+Colorado,CO,Wheat,2025,38,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/co/wheat/
+Colorado,CO,Wheat,2026,17,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/co/wheat/
+Georgia,GA,Corn,2020,180,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/ga/corn/
+Georgia,GA,Corn,2021,182,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/ga/corn/
+Georgia,GA,Corn,2022,175,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/ga/corn/
+Georgia,GA,Corn,2023,174,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/ga/corn/
+Georgia,GA,Corn,2024,163,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/ga/corn/
+Georgia,GA,Corn,2025,187,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/ga/corn/
+Georgia,GA,Corn,2026,168,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ga/corn/
+Georgia,GA,Cotton,2020,887,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/ga/cotton/
+Georgia,GA,Cotton,2021,914,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/ga/cotton/
+Georgia,GA,Cotton,2022,1002,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/ga/cotton/
+Georgia,GA,Cotton,2023,949,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/ga/cotton/
+Georgia,GA,Cotton,2024,858,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/ga/cotton/
+Georgia,GA,Cotton,2025,1033,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/ga/cotton/
+Georgia,GA,Cotton,2026,932,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ga/cotton/
+Georgia,GA,Soybeans,2020,41,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/ga/soybeans/
+Georgia,GA,Soybeans,2021,46,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/ga/soybeans/
+Georgia,GA,Soybeans,2022,41,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/ga/soybeans/
+Georgia,GA,Soybeans,2023,43,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/ga/soybeans/
+Georgia,GA,Soybeans,2024,47,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/ga/soybeans/
+Georgia,GA,Soybeans,2025,49,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/ga/soybeans/
+Georgia,GA,Soybeans,2026,45,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ga/soybeans/
+Georgia,GA,Wheat,2020,55,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/ga/wheat/
+Georgia,GA,Wheat,2021,56,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/ga/wheat/
+Georgia,GA,Wheat,2022,58,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/ga/wheat/
+Georgia,GA,Wheat,2023,55,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/ga/wheat/
+Georgia,GA,Wheat,2024,59,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/ga/wheat/
+Georgia,GA,Wheat,2025,66,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/ga/wheat/
+Georgia,GA,Wheat,2026,62,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/ga/wheat/
+Iowa,IA,Corn,2020,177,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/ia/corn/
+Iowa,IA,Corn,2021,204,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/ia/corn/
+Iowa,IA,Corn,2022,200,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/ia/corn/
+Iowa,IA,Corn,2023,201,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/ia/corn/
+Iowa,IA,Corn,2024,211,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/ia/corn/
+Iowa,IA,Corn,2025,210,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/ia/corn/
+Iowa,IA,Corn,2026,219,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ia/corn/
+Iowa,IA,Soybeans,2020,54,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/ia/soybeans/
+Iowa,IA,Soybeans,2021,63,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/ia/soybeans/
+Iowa,IA,Soybeans,2022,58.5,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/ia/soybeans/
+Iowa,IA,Soybeans,2023,58,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/ia/soybeans/
+Iowa,IA,Soybeans,2024,60,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/ia/soybeans/
+Iowa,IA,Soybeans,2025,63.5,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/ia/soybeans/
+Iowa,IA,Soybeans,2026,65,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ia/soybeans/
+Idaho,ID,Corn,2020,199,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/id/corn/
+Idaho,ID,Corn,2021,210,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/id/corn/
+Idaho,ID,Corn,2022,216,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/id/corn/
+Idaho,ID,Corn,2023,203,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/id/corn/
+Idaho,ID,Corn,2024,206,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/id/corn/
+Idaho,ID,Corn,2025,209,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/id/corn/
+Idaho,ID,Corn,2026,202,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/id/corn/
+Idaho,ID,Wheat,2020,96.6,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/id/wheat/
+Idaho,ID,Wheat,2021,67.6,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/id/wheat/
+Idaho,ID,Wheat,2022,86.8,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/id/wheat/
+Idaho,ID,Wheat,2023,86.1,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/id/wheat/
+Idaho,ID,Wheat,2024,89,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/id/wheat/
+Idaho,ID,Wheat,2025,93.5,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/id/wheat/
+Idaho,ID,Wheat,2026,77.2,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/id/wheat/
+Illinois,IL,Corn,2020,191,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/il/corn/
+Illinois,IL,Corn,2021,202,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/il/corn/
+Illinois,IL,Corn,2022,214,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/il/corn/
+Illinois,IL,Corn,2023,206,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/il/corn/
+Illinois,IL,Corn,2024,217,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/il/corn/
+Illinois,IL,Corn,2025,214,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/il/corn/
+Illinois,IL,Corn,2026,200,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/il/corn/
+Illinois,IL,Soybeans,2020,60,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/il/soybeans/
+Illinois,IL,Soybeans,2021,65,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/il/soybeans/
+Illinois,IL,Soybeans,2022,63,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/il/soybeans/
+Illinois,IL,Soybeans,2023,63,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/il/soybeans/
+Illinois,IL,Soybeans,2024,64,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/il/soybeans/
+Illinois,IL,Soybeans,2025,62.5,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/il/soybeans/
+Illinois,IL,Soybeans,2026,64,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/il/soybeans/
+Illinois,IL,Wheat,2020,68,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/il/wheat/
+Illinois,IL,Wheat,2021,79,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/il/wheat/
+Illinois,IL,Wheat,2022,79,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/il/wheat/
+Illinois,IL,Wheat,2023,87,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/il/wheat/
+Illinois,IL,Wheat,2024,86,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/il/wheat/
+Illinois,IL,Wheat,2025,88,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/il/wheat/
+Illinois,IL,Wheat,2026,87,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/il/wheat/
+Indiana,IN,Corn,2020,187,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/in/corn/
+Indiana,IN,Corn,2021,195,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/in/corn/
+Indiana,IN,Corn,2022,190,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/in/corn/
+Indiana,IN,Corn,2023,203,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/in/corn/
+Indiana,IN,Corn,2024,198,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/in/corn/
+Indiana,IN,Corn,2025,204,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/in/corn/
+Indiana,IN,Corn,2026,195,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/in/corn/
+Indiana,IN,Soybeans,2020,59,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/in/soybeans/
+Indiana,IN,Soybeans,2021,60,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/in/soybeans/
+Indiana,IN,Soybeans,2022,57.5,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/in/soybeans/
+Indiana,IN,Soybeans,2023,61,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/in/soybeans/
+Indiana,IN,Soybeans,2024,59,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/in/soybeans/
+Indiana,IN,Soybeans,2025,59.5,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/in/soybeans/
+Indiana,IN,Soybeans,2026,63,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/in/soybeans/
+Indiana,IN,Wheat,2020,70,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/in/wheat/
+Indiana,IN,Wheat,2021,85,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/in/wheat/
+Indiana,IN,Wheat,2022,81,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/in/wheat/
+Indiana,IN,Wheat,2023,92,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/in/wheat/
+Indiana,IN,Wheat,2024,89,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/in/wheat/
+Indiana,IN,Wheat,2025,89,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/in/wheat/
+Indiana,IN,Wheat,2026,85,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/in/wheat/
+Kansas,KS,Corn,2020,134,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/ks/corn/
+Kansas,KS,Corn,2021,139,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/ks/corn/
+Kansas,KS,Corn,2022,115,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/ks/corn/
+Kansas,KS,Corn,2023,119,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/ks/corn/
+Kansas,KS,Corn,2024,129,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/ks/corn/
+Kansas,KS,Corn,2025,145,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/ks/corn/
+Kansas,KS,Corn,2026,124,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ks/corn/
+Kansas,KS,Cotton,2020,804,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/ks/cotton/
+Kansas,KS,Cotton,2021,880,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/ks/cotton/
+Kansas,KS,Cotton,2022,586,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/ks/cotton/
+Kansas,KS,Cotton,2023,769,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/ks/cotton/
+Kansas,KS,Cotton,2024,778,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/ks/cotton/
+Kansas,KS,Cotton,2025,966,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/ks/cotton/
+Kansas,KS,Cotton,2026,499,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ks/cotton/
+Kansas,KS,Sorghum,2020,85,bu/acre,73.2,YEAR,no,https://greenmatrix.digital/crop/ks/sorghum/
+Kansas,KS,Sorghum,2021,78,bu/acre,69,YEAR,no,https://greenmatrix.digital/crop/ks/sorghum/
+Kansas,KS,Sorghum,2022,39,bu/acre,41.1,YEAR,no,https://greenmatrix.digital/crop/ks/sorghum/
+Kansas,KS,Sorghum,2023,52,bu/acre,52,YEAR,no,https://greenmatrix.digital/crop/ks/sorghum/
+Kansas,KS,Sorghum,2024,65,bu/acre,61.3,YEAR,no,https://greenmatrix.digital/crop/ks/sorghum/
+Kansas,KS,Sorghum,2025,90,bu/acre,72.6,YEAR,no,https://greenmatrix.digital/crop/ks/sorghum/
+Kansas,KS,Sorghum,2026,59,bu/acre,52.4,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ks/sorghum/
+Kansas,KS,Soybeans,2020,41,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/ks/soybeans/
+Kansas,KS,Soybeans,2021,40,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/ks/soybeans/
+Kansas,KS,Soybeans,2022,27.5,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/ks/soybeans/
+Kansas,KS,Soybeans,2023,26,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/ks/soybeans/
+Kansas,KS,Soybeans,2024,35,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/ks/soybeans/
+Kansas,KS,Soybeans,2025,48.5,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/ks/soybeans/
+Kansas,KS,Soybeans,2026,30,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ks/soybeans/
+Kansas,KS,Wheat,2020,45,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/ks/wheat/
+Kansas,KS,Wheat,2021,52,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/ks/wheat/
+Kansas,KS,Wheat,2022,37,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/ks/wheat/
+Kansas,KS,Wheat,2023,35,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/ks/wheat/
+Kansas,KS,Wheat,2024,43,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/ks/wheat/
+Kansas,KS,Wheat,2025,51,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/ks/wheat/
+Kansas,KS,Wheat,2026,34,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/ks/wheat/
+Kentucky,KY,Corn,2020,184,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/ky/corn/
+Kentucky,KY,Corn,2021,192,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/ky/corn/
+Kentucky,KY,Corn,2022,156,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/ky/corn/
+Kentucky,KY,Corn,2023,187,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/ky/corn/
+Kentucky,KY,Corn,2024,178,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/ky/corn/
+Kentucky,KY,Corn,2025,167,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/ky/corn/
+Kentucky,KY,Corn,2026,189,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ky/corn/
+Kentucky,KY,Soybeans,2020,55,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/ky/soybeans/
+Kentucky,KY,Soybeans,2021,56,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/ky/soybeans/
+Kentucky,KY,Soybeans,2022,51,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/ky/soybeans/
+Kentucky,KY,Soybeans,2023,55,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/ky/soybeans/
+Kentucky,KY,Soybeans,2024,48,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/ky/soybeans/
+Kentucky,KY,Soybeans,2025,42,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/ky/soybeans/
+Kentucky,KY,Soybeans,2026,54,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ky/soybeans/
+Kentucky,KY,Wheat,2020,63,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/ky/wheat/
+Kentucky,KY,Wheat,2021,87,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/ky/wheat/
+Kentucky,KY,Wheat,2022,80,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/ky/wheat/
+Kentucky,KY,Wheat,2023,88,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/ky/wheat/
+Kentucky,KY,Wheat,2024,75,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/ky/wheat/
+Kentucky,KY,Wheat,2025,81,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/ky/wheat/
+Kentucky,KY,Wheat,2026,82,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/ky/wheat/
+Louisiana,LA,Corn,2020,181,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/la/corn/
+Louisiana,LA,Corn,2021,183,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/la/corn/
+Louisiana,LA,Corn,2022,170,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/la/corn/
+Louisiana,LA,Corn,2023,175,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/la/corn/
+Louisiana,LA,Corn,2024,185,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/la/corn/
+Louisiana,LA,Corn,2025,193,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/la/corn/
+Louisiana,LA,Corn,2026,171,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/la/corn/
+Louisiana,LA,Cotton,2020,986,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/la/cotton/
+Louisiana,LA,Cotton,2021,1011,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/la/cotton/
+Louisiana,LA,Cotton,2022,904,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/la/cotton/
+Louisiana,LA,Cotton,2023,872,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/la/cotton/
+Louisiana,LA,Cotton,2024,1070,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/la/cotton/
+Louisiana,LA,Cotton,2025,1350,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/la/cotton/
+Louisiana,LA,Cotton,2026,1135,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/la/cotton/
+Louisiana,LA,Soybeans,2020,53,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/la/soybeans/
+Louisiana,LA,Soybeans,2021,52,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/la/soybeans/
+Louisiana,LA,Soybeans,2022,47,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/la/soybeans/
+Louisiana,LA,Soybeans,2023,40,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/la/soybeans/
+Louisiana,LA,Soybeans,2024,52,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/la/soybeans/
+Louisiana,LA,Soybeans,2025,53.5,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/la/soybeans/
+Louisiana,LA,Soybeans,2026,56,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/la/soybeans/
+Michigan,MI,Corn,2020,153,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/mi/corn/
+Michigan,MI,Corn,2021,174,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/mi/corn/
+Michigan,MI,Corn,2022,168,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/mi/corn/
+Michigan,MI,Corn,2023,168,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/mi/corn/
+Michigan,MI,Corn,2024,181,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/mi/corn/
+Michigan,MI,Corn,2025,178,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/mi/corn/
+Michigan,MI,Corn,2026,170,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/mi/corn/
+Michigan,MI,Soybeans,2020,48,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/mi/soybeans/
+Michigan,MI,Soybeans,2021,51,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/mi/soybeans/
+Michigan,MI,Soybeans,2022,47,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/mi/soybeans/
+Michigan,MI,Soybeans,2023,46,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/mi/soybeans/
+Michigan,MI,Soybeans,2024,49,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/mi/soybeans/
+Michigan,MI,Soybeans,2025,48.5,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/mi/soybeans/
+Michigan,MI,Soybeans,2026,50,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/mi/soybeans/
+Michigan,MI,Wheat,2020,75,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/mi/wheat/
+Michigan,MI,Wheat,2021,81,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/mi/wheat/
+Michigan,MI,Wheat,2022,83,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/mi/wheat/
+Michigan,MI,Wheat,2023,83,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/mi/wheat/
+Michigan,MI,Wheat,2024,87,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/mi/wheat/
+Michigan,MI,Wheat,2025,90,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/mi/wheat/
+Michigan,MI,Wheat,2026,87,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/mi/wheat/
+Minnesota,MN,Corn,2020,191,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/mn/corn/
+Minnesota,MN,Corn,2021,177,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/mn/corn/
+Minnesota,MN,Corn,2022,195,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/mn/corn/
+Minnesota,MN,Corn,2023,185,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/mn/corn/
+Minnesota,MN,Corn,2024,174,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/mn/corn/
+Minnesota,MN,Corn,2025,201,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/mn/corn/
+Minnesota,MN,Corn,2026,204,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/mn/corn/
+Minnesota,MN,Soybeans,2020,50,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/mn/soybeans/
+Minnesota,MN,Soybeans,2021,47,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/mn/soybeans/
+Minnesota,MN,Soybeans,2022,50,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/mn/soybeans/
+Minnesota,MN,Soybeans,2023,48,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/mn/soybeans/
+Minnesota,MN,Soybeans,2024,45,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/mn/soybeans/
+Minnesota,MN,Soybeans,2025,52.5,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/mn/soybeans/
+Minnesota,MN,Soybeans,2026,54,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/mn/soybeans/
+Minnesota,MN,Wheat,2020,53,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/mn/wheat/
+Minnesota,MN,Wheat,2021,48,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/mn/wheat/
+Minnesota,MN,Wheat,2022,61,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/mn/wheat/
+Minnesota,MN,Wheat,2023,62,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/mn/wheat/
+Minnesota,MN,Wheat,2024,68.5,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/mn/wheat/
+Minnesota,MN,Wheat,2025,69,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/mn/wheat/
+Minnesota,MN,Wheat,2026,63,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/mn/wheat/
+Missouri,MO,Corn,2020,170,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/mo/corn/
+Missouri,MO,Corn,2021,159,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/mo/corn/
+Missouri,MO,Corn,2022,161,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/mo/corn/
+Missouri,MO,Corn,2023,153,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/mo/corn/
+Missouri,MO,Corn,2024,183,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/mo/corn/
+Missouri,MO,Corn,2025,185,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/mo/corn/
+Missouri,MO,Corn,2026,176,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/mo/corn/
+Missouri,MO,Cotton,2020,1144,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/mo/cotton/
+Missouri,MO,Cotton,2021,1260,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/mo/cotton/
+Missouri,MO,Cotton,2022,1240,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/mo/cotton/
+Missouri,MO,Cotton,2023,1361,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/mo/cotton/
+Missouri,MO,Cotton,2024,1320,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/mo/cotton/
+Missouri,MO,Cotton,2025,1084,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/mo/cotton/
+Missouri,MO,Cotton,2026,1338,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/mo/cotton/
+Missouri,MO,Soybeans,2020,51,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/mo/soybeans/
+Missouri,MO,Soybeans,2021,49,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/mo/soybeans/
+Missouri,MO,Soybeans,2022,45.5,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/mo/soybeans/
+Missouri,MO,Soybeans,2023,48,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/mo/soybeans/
+Missouri,MO,Soybeans,2024,49,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/mo/soybeans/
+Missouri,MO,Soybeans,2025,50,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/mo/soybeans/
+Missouri,MO,Soybeans,2026,46,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/mo/soybeans/
+Missouri,MO,Wheat,2020,62,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/mo/wheat/
+Missouri,MO,Wheat,2021,65,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/mo/wheat/
+Missouri,MO,Wheat,2022,60,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/mo/wheat/
+Missouri,MO,Wheat,2023,70,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/mo/wheat/
+Missouri,MO,Wheat,2024,75,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/mo/wheat/
+Missouri,MO,Wheat,2025,80,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/mo/wheat/
+Missouri,MO,Wheat,2026,73,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/mo/wheat/
+Mississippi,MS,Corn,2020,180,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/ms/corn/
+Mississippi,MS,Corn,2021,181,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/ms/corn/
+Mississippi,MS,Corn,2022,165,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/ms/corn/
+Mississippi,MS,Corn,2023,181,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/ms/corn/
+Mississippi,MS,Corn,2024,186,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/ms/corn/
+Mississippi,MS,Corn,2025,180,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/ms/corn/
+Mississippi,MS,Corn,2026,196,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ms/corn/
+Mississippi,MS,Cotton,2020,1079,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/ms/cotton/
+Mississippi,MS,Cotton,2021,997,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/ms/cotton/
+Mississippi,MS,Cotton,2022,1084,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/ms/cotton/
+Mississippi,MS,Cotton,2023,1083,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/ms/cotton/
+Mississippi,MS,Cotton,2024,1157,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/ms/cotton/
+Mississippi,MS,Cotton,2025,1167,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/ms/cotton/
+Mississippi,MS,Cotton,2026,1149,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ms/cotton/
+Mississippi,MS,Soybeans,2020,54,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/ms/soybeans/
+Mississippi,MS,Soybeans,2021,54,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/ms/soybeans/
+Mississippi,MS,Soybeans,2022,54,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/ms/soybeans/
+Mississippi,MS,Soybeans,2023,56,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/ms/soybeans/
+Mississippi,MS,Soybeans,2024,56,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/ms/soybeans/
+Mississippi,MS,Soybeans,2025,56,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/ms/soybeans/
+Mississippi,MS,Soybeans,2026,59,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ms/soybeans/
+Mississippi,MS,Wheat,2020,48,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/ms/wheat/
+Mississippi,MS,Wheat,2021,59,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/ms/wheat/
+Mississippi,MS,Wheat,2022,52,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/ms/wheat/
+Mississippi,MS,Wheat,2023,52,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/ms/wheat/
+Mississippi,MS,Wheat,2024,50,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/ms/wheat/
+Mississippi,MS,Wheat,2025,60,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/ms/wheat/
+Mississippi,MS,Wheat,2026,55,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/ms/wheat/
+Montana,MT,Corn,2020,109,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/mt/corn/
+Montana,MT,Corn,2021,100,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/mt/corn/
+Montana,MT,Corn,2022,112,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/mt/corn/
+Montana,MT,Corn,2023,129,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/mt/corn/
+Montana,MT,Corn,2024,85,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/mt/corn/
+Montana,MT,Corn,2025,132,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/mt/corn/
+Montana,MT,Wheat,2020,41.7,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/mt/wheat/
+Montana,MT,Wheat,2021,22.2,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/mt/wheat/
+Montana,MT,Wheat,2022,28.3,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/mt/wheat/
+Montana,MT,Wheat,2023,37.2,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/mt/wheat/
+Montana,MT,Wheat,2024,34.1,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/mt/wheat/
+Montana,MT,Wheat,2025,36.8,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/mt/wheat/
+Montana,MT,Wheat,2026,37.2,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/mt/wheat/
+North Carolina,NC,Corn,2020,113,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/nc/corn/
+North Carolina,NC,Corn,2021,149,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/nc/corn/
+North Carolina,NC,Corn,2022,126,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/nc/corn/
+North Carolina,NC,Corn,2023,147,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/nc/corn/
+North Carolina,NC,Corn,2024,87,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/nc/corn/
+North Carolina,NC,Corn,2025,144,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/nc/corn/
+North Carolina,NC,Corn,2026,117,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/nc/corn/
+North Carolina,NC,Cotton,2020,759,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/nc/cotton/
+North Carolina,NC,Cotton,2021,1017,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/nc/cotton/
+North Carolina,NC,Cotton,2022,1049,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/nc/cotton/
+North Carolina,NC,Cotton,2023,933,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/nc/cotton/
+North Carolina,NC,Cotton,2024,940,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/nc/cotton/
+North Carolina,NC,Cotton,2025,1115,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/nc/cotton/
+North Carolina,NC,Cotton,2026,1101,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/nc/cotton/
+North Carolina,NC,Soybeans,2020,38,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/nc/soybeans/
+North Carolina,NC,Soybeans,2021,40,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/nc/soybeans/
+North Carolina,NC,Soybeans,2022,38.5,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/nc/soybeans/
+North Carolina,NC,Soybeans,2023,38.5,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/nc/soybeans/
+North Carolina,NC,Soybeans,2024,39,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/nc/soybeans/
+North Carolina,NC,Soybeans,2025,36,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/nc/soybeans/
+North Carolina,NC,Soybeans,2026,39,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/nc/soybeans/
+North Carolina,NC,Wheat,2020,60,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/nc/wheat/
+North Carolina,NC,Wheat,2021,56,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/nc/wheat/
+North Carolina,NC,Wheat,2022,64,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/nc/wheat/
+North Carolina,NC,Wheat,2023,70,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/nc/wheat/
+North Carolina,NC,Wheat,2024,57,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/nc/wheat/
+North Carolina,NC,Wheat,2025,60,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/nc/wheat/
+North Carolina,NC,Wheat,2026,53,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/nc/wheat/
+North Dakota,ND,Corn,2020,139,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/nd/corn/
+North Dakota,ND,Corn,2021,105,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/nd/corn/
+North Dakota,ND,Corn,2022,130,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/nd/corn/
+North Dakota,ND,Corn,2023,143,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/nd/corn/
+North Dakota,ND,Corn,2024,149,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/nd/corn/
+North Dakota,ND,Corn,2025,158,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/nd/corn/
+North Dakota,ND,Corn,2026,129,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/nd/corn/
+North Dakota,ND,Soybeans,2020,34,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/nd/soybeans/
+North Dakota,ND,Soybeans,2021,25.5,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/nd/soybeans/
+North Dakota,ND,Soybeans,2022,35,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/nd/soybeans/
+North Dakota,ND,Soybeans,2023,35.5,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/nd/soybeans/
+North Dakota,ND,Soybeans,2024,37.5,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/nd/soybeans/
+North Dakota,ND,Soybeans,2025,34.5,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/nd/soybeans/
+North Dakota,ND,Soybeans,2026,33,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/nd/soybeans/
+North Dakota,ND,Wheat,2020,47.6,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/nd/wheat/
+North Dakota,ND,Wheat,2021,32.2,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/nd/wheat/
+North Dakota,ND,Wheat,2022,48.9,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/nd/wheat/
+North Dakota,ND,Wheat,2023,47.1,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/nd/wheat/
+North Dakota,ND,Wheat,2024,56.9,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/nd/wheat/
+North Dakota,ND,Wheat,2025,52.8,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/nd/wheat/
+North Dakota,ND,Wheat,2026,49.1,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/nd/wheat/
+Nebraska,NE,Corn,2020,180,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/ne/corn/
+Nebraska,NE,Corn,2021,194,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/ne/corn/
+Nebraska,NE,Corn,2022,165,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/ne/corn/
+Nebraska,NE,Corn,2023,182,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/ne/corn/
+Nebraska,NE,Corn,2024,188,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/ne/corn/
+Nebraska,NE,Corn,2025,194,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/ne/corn/
+Nebraska,NE,Corn,2026,184,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ne/corn/
+Nebraska,NE,Sorghum,2020,91,bu/acre,73.2,YEAR,no,https://greenmatrix.digital/crop/ne/sorghum/
+Nebraska,NE,Sorghum,2021,86,bu/acre,69,YEAR,no,https://greenmatrix.digital/crop/ne/sorghum/
+Nebraska,NE,Sorghum,2022,55,bu/acre,41.1,YEAR,no,https://greenmatrix.digital/crop/ne/sorghum/
+Nebraska,NE,Sorghum,2023,73,bu/acre,52,YEAR,no,https://greenmatrix.digital/crop/ne/sorghum/
+Nebraska,NE,Sorghum,2024,85,bu/acre,61.3,YEAR,no,https://greenmatrix.digital/crop/ne/sorghum/
+Nebraska,NE,Sorghum,2025,87,bu/acre,72.6,YEAR,no,https://greenmatrix.digital/crop/ne/sorghum/
+Nebraska,NE,Sorghum,2026,80,bu/acre,52.4,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ne/sorghum/
+Nebraska,NE,Soybeans,2020,58,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/ne/soybeans/
+Nebraska,NE,Soybeans,2021,63,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/ne/soybeans/
+Nebraska,NE,Soybeans,2022,49,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/ne/soybeans/
+Nebraska,NE,Soybeans,2023,51.5,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/ne/soybeans/
+Nebraska,NE,Soybeans,2024,57.5,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/ne/soybeans/
+Nebraska,NE,Soybeans,2025,65.5,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/ne/soybeans/
+Nebraska,NE,Soybeans,2026,62,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ne/soybeans/
+Nebraska,NE,Wheat,2020,41,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/ne/wheat/
+Nebraska,NE,Wheat,2021,49,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/ne/wheat/
+Nebraska,NE,Wheat,2022,32,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/ne/wheat/
+Nebraska,NE,Wheat,2023,42,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/ne/wheat/
+Nebraska,NE,Wheat,2024,52,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/ne/wheat/
+Nebraska,NE,Wheat,2025,47,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/ne/wheat/
+Nebraska,NE,Wheat,2026,33,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/ne/wheat/
+New Jersey,NJ,Corn,2020,156,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/nj/corn/
+New Jersey,NJ,Corn,2021,163,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/nj/corn/
+New Jersey,NJ,Corn,2022,114,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/nj/corn/
+New Jersey,NJ,Corn,2023,168,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/nj/corn/
+New Jersey,NJ,Corn,2024,157,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/nj/corn/
+New Jersey,NJ,Corn,2025,161,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/nj/corn/
+New Jersey,NJ,Soybeans,2020,46,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/nj/soybeans/
+New Jersey,NJ,Soybeans,2021,46,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/nj/soybeans/
+New Jersey,NJ,Soybeans,2022,28,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/nj/soybeans/
+New Jersey,NJ,Soybeans,2023,43,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/nj/soybeans/
+New Jersey,NJ,Soybeans,2024,43,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/nj/soybeans/
+New Jersey,NJ,Soybeans,2025,39,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/nj/soybeans/
+New Jersey,NJ,Soybeans,2026,44,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/nj/soybeans/
+New Jersey,NJ,Wheat,2020,67,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/nj/wheat/
+New Jersey,NJ,Wheat,2021,67,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/nj/wheat/
+New Jersey,NJ,Wheat,2022,70,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/nj/wheat/
+New Jersey,NJ,Wheat,2023,82,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/nj/wheat/
+New York,NY,Corn,2020,157,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/ny/corn/
+New York,NY,Corn,2021,167,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/ny/corn/
+New York,NY,Corn,2022,142,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/ny/corn/
+New York,NY,Corn,2023,159,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/ny/corn/
+New York,NY,Corn,2024,169,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/ny/corn/
+New York,NY,Corn,2025,140,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/ny/corn/
+New York,NY,Corn,2026,162,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ny/corn/
+New York,NY,Soybeans,2020,51,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/ny/soybeans/
+New York,NY,Soybeans,2021,53,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/ny/soybeans/
+New York,NY,Soybeans,2022,45,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/ny/soybeans/
+New York,NY,Soybeans,2023,51,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/ny/soybeans/
+New York,NY,Soybeans,2024,51,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/ny/soybeans/
+New York,NY,Soybeans,2025,40,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/ny/soybeans/
+New York,NY,Soybeans,2026,47,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ny/soybeans/
+New York,NY,Wheat,2020,66,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/ny/wheat/
+New York,NY,Wheat,2021,77,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/ny/wheat/
+New York,NY,Wheat,2022,72,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/ny/wheat/
+New York,NY,Wheat,2023,81,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/ny/wheat/
+New York,NY,Wheat,2024,75,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/ny/wheat/
+New York,NY,Wheat,2025,71,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/ny/wheat/
+New York,NY,Wheat,2026,69,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/ny/wheat/
+Ohio,OH,Corn,2020,171,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/oh/corn/
+Ohio,OH,Corn,2021,193,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/oh/corn/
+Ohio,OH,Corn,2022,187,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/oh/corn/
+Ohio,OH,Corn,2023,198,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/oh/corn/
+Ohio,OH,Corn,2024,177,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/oh/corn/
+Ohio,OH,Corn,2025,184,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/oh/corn/
+Ohio,OH,Corn,2026,200,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/oh/corn/
+Ohio,OH,Soybeans,2020,55,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/oh/soybeans/
+Ohio,OH,Soybeans,2021,57,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/oh/soybeans/
+Ohio,OH,Soybeans,2022,55.5,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/oh/soybeans/
+Ohio,OH,Soybeans,2023,58,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/oh/soybeans/
+Ohio,OH,Soybeans,2024,50,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/oh/soybeans/
+Ohio,OH,Soybeans,2025,53,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/oh/soybeans/
+Ohio,OH,Soybeans,2026,62,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/oh/soybeans/
+Ohio,OH,Wheat,2020,71,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/oh/wheat/
+Ohio,OH,Wheat,2021,85,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/oh/wheat/
+Ohio,OH,Wheat,2022,79,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/oh/wheat/
+Ohio,OH,Wheat,2023,90,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/oh/wheat/
+Ohio,OH,Wheat,2024,85,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/oh/wheat/
+Ohio,OH,Wheat,2025,86,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/oh/wheat/
+Ohio,OH,Wheat,2026,83,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/oh/wheat/
+Oklahoma,OK,Corn,2020,135,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/ok/corn/
+Oklahoma,OK,Corn,2021,150,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/ok/corn/
+Oklahoma,OK,Corn,2022,122,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/ok/corn/
+Oklahoma,OK,Corn,2023,149,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/ok/corn/
+Oklahoma,OK,Corn,2024,98,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/ok/corn/
+Oklahoma,OK,Corn,2025,122,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/ok/corn/
+Oklahoma,OK,Corn,2026,93,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ok/corn/
+Oklahoma,OK,Cotton,2020,718,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/ok/cotton/
+Oklahoma,OK,Cotton,2021,774,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/ok/cotton/
+Oklahoma,OK,Cotton,2022,663,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/ok/cotton/
+Oklahoma,OK,Cotton,2023,560,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/ok/cotton/
+Oklahoma,OK,Cotton,2024,701,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/ok/cotton/
+Oklahoma,OK,Cotton,2025,912,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/ok/cotton/
+Oklahoma,OK,Cotton,2026,300,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ok/cotton/
+Oklahoma,OK,Sorghum,2020,45,bu/acre,73.2,YEAR,no,https://greenmatrix.digital/crop/ok/sorghum/
+Oklahoma,OK,Sorghum,2021,54,bu/acre,69,YEAR,no,https://greenmatrix.digital/crop/ok/sorghum/
+Oklahoma,OK,Sorghum,2022,24,bu/acre,41.1,YEAR,no,https://greenmatrix.digital/crop/ok/sorghum/
+Oklahoma,OK,Sorghum,2023,47,bu/acre,52,YEAR,no,https://greenmatrix.digital/crop/ok/sorghum/
+Oklahoma,OK,Sorghum,2024,39,bu/acre,61.3,YEAR,no,https://greenmatrix.digital/crop/ok/sorghum/
+Oklahoma,OK,Sorghum,2025,58,bu/acre,72.6,YEAR,no,https://greenmatrix.digital/crop/ok/sorghum/
+Oklahoma,OK,Sorghum,2026,45,bu/acre,52.4,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ok/sorghum/
+Oklahoma,OK,Soybeans,2020,30,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/ok/soybeans/
+Oklahoma,OK,Soybeans,2021,23,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/ok/soybeans/
+Oklahoma,OK,Soybeans,2022,17,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/ok/soybeans/
+Oklahoma,OK,Soybeans,2023,26,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/ok/soybeans/
+Oklahoma,OK,Soybeans,2024,20,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/ok/soybeans/
+Oklahoma,OK,Soybeans,2025,29,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/ok/soybeans/
+Oklahoma,OK,Soybeans,2026,20,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/ok/soybeans/
+Oklahoma,OK,Wheat,2020,40,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/ok/wheat/
+Oklahoma,OK,Wheat,2021,39,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/ok/wheat/
+Oklahoma,OK,Wheat,2022,28,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/ok/wheat/
+Oklahoma,OK,Wheat,2023,28,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/ok/wheat/
+Oklahoma,OK,Wheat,2024,38,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/ok/wheat/
+Oklahoma,OK,Wheat,2025,38,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/ok/wheat/
+Oklahoma,OK,Wheat,2026,28,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/ok/wheat/
+Oregon,OR,Corn,2020,241,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/or/corn/
+Oregon,OR,Corn,2021,240,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/or/corn/
+Oregon,OR,Corn,2022,237,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/or/corn/
+Oregon,OR,Corn,2023,214,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/or/corn/
+Oregon,OR,Corn,2024,208,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/or/corn/
+Oregon,OR,Corn,2025,236,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/or/corn/
+Oregon,OR,Wheat,2020,64,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/or/wheat/
+Oregon,OR,Wheat,2021,45,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/or/wheat/
+Oregon,OR,Wheat,2022,68,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/or/wheat/
+Oregon,OR,Wheat,2023,56,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/or/wheat/
+Oregon,OR,Wheat,2024,70,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/or/wheat/
+Oregon,OR,Wheat,2025,71,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/or/wheat/
+Oregon,OR,Wheat,2026,76,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/or/wheat/
+Pennsylvania,PA,Corn,2020,138,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/pa/corn/
+Pennsylvania,PA,Corn,2021,169,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/pa/corn/
+Pennsylvania,PA,Corn,2022,140,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/pa/corn/
+Pennsylvania,PA,Corn,2023,157,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/pa/corn/
+Pennsylvania,PA,Corn,2024,138,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/pa/corn/
+Pennsylvania,PA,Corn,2025,151,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/pa/corn/
+Pennsylvania,PA,Corn,2026,167,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/pa/corn/
+Pennsylvania,PA,Soybeans,2020,46,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/pa/soybeans/
+Pennsylvania,PA,Soybeans,2021,53,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/pa/soybeans/
+Pennsylvania,PA,Soybeans,2022,43,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/pa/soybeans/
+Pennsylvania,PA,Soybeans,2023,47,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/pa/soybeans/
+Pennsylvania,PA,Soybeans,2024,45,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/pa/soybeans/
+Pennsylvania,PA,Soybeans,2025,44,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/pa/soybeans/
+Pennsylvania,PA,Soybeans,2026,57,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/pa/soybeans/
+Pennsylvania,PA,Wheat,2020,71,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/pa/wheat/
+Pennsylvania,PA,Wheat,2021,77,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/pa/wheat/
+Pennsylvania,PA,Wheat,2022,73,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/pa/wheat/
+Pennsylvania,PA,Wheat,2023,76,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/pa/wheat/
+Pennsylvania,PA,Wheat,2024,75,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/pa/wheat/
+Pennsylvania,PA,Wheat,2025,72,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/pa/wheat/
+Pennsylvania,PA,Wheat,2026,74,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/pa/wheat/
+South Dakota,SD,Corn,2020,162,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/sd/corn/
+South Dakota,SD,Corn,2021,134,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/sd/corn/
+South Dakota,SD,Corn,2022,132,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/sd/corn/
+South Dakota,SD,Corn,2023,152,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/sd/corn/
+South Dakota,SD,Corn,2024,164,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/sd/corn/
+South Dakota,SD,Corn,2025,171,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/sd/corn/
+South Dakota,SD,Corn,2026,153,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/sd/corn/
+South Dakota,SD,Sorghum,2020,71,bu/acre,73.2,YEAR,no,https://greenmatrix.digital/crop/sd/sorghum/
+South Dakota,SD,Sorghum,2021,64,bu/acre,69,YEAR,no,https://greenmatrix.digital/crop/sd/sorghum/
+South Dakota,SD,Sorghum,2022,68,bu/acre,41.1,YEAR,no,https://greenmatrix.digital/crop/sd/sorghum/
+South Dakota,SD,Sorghum,2023,90,bu/acre,52,YEAR,no,https://greenmatrix.digital/crop/sd/sorghum/
+South Dakota,SD,Sorghum,2024,76,bu/acre,61.3,YEAR,no,https://greenmatrix.digital/crop/sd/sorghum/
+South Dakota,SD,Sorghum,2025,80,bu/acre,72.6,YEAR,no,https://greenmatrix.digital/crop/sd/sorghum/
+South Dakota,SD,Sorghum,2026,69,bu/acre,52.4,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/sd/sorghum/
+South Dakota,SD,Soybeans,2020,46,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/sd/soybeans/
+South Dakota,SD,Soybeans,2021,40,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/sd/soybeans/
+South Dakota,SD,Soybeans,2022,38,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/sd/soybeans/
+South Dakota,SD,Soybeans,2023,44,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/sd/soybeans/
+South Dakota,SD,Soybeans,2024,43,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/sd/soybeans/
+South Dakota,SD,Soybeans,2025,47,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/sd/soybeans/
+South Dakota,SD,Soybeans,2026,45,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/sd/soybeans/
+South Dakota,SD,Wheat,2020,51.8,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/sd/wheat/
+South Dakota,SD,Wheat,2021,34,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/sd/wheat/
+South Dakota,SD,Wheat,2022,50,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/sd/wheat/
+South Dakota,SD,Wheat,2023,45,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/sd/wheat/
+South Dakota,SD,Wheat,2024,56.6,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/sd/wheat/
+South Dakota,SD,Wheat,2025,50.5,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/sd/wheat/
+South Dakota,SD,Wheat,2026,48.7,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/sd/wheat/
+Tennessee,TN,Corn,2020,170,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/tn/corn/
+Tennessee,TN,Corn,2021,170,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/tn/corn/
+Tennessee,TN,Corn,2022,130,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/tn/corn/
+Tennessee,TN,Corn,2023,173,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/tn/corn/
+Tennessee,TN,Corn,2024,152,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/tn/corn/
+Tennessee,TN,Corn,2025,162,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/tn/corn/
+Tennessee,TN,Corn,2026,188,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/tn/corn/
+Tennessee,TN,Cotton,2020,1066,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/tn/cotton/
+Tennessee,TN,Cotton,2021,1036,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/tn/cotton/
+Tennessee,TN,Cotton,2022,1053,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/tn/cotton/
+Tennessee,TN,Cotton,2023,1250,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/tn/cotton/
+Tennessee,TN,Cotton,2024,1052,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/tn/cotton/
+Tennessee,TN,Cotton,2025,889,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/tn/cotton/
+Tennessee,TN,Cotton,2026,1137,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/tn/cotton/
+Tennessee,TN,Soybeans,2020,50,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/tn/soybeans/
+Tennessee,TN,Soybeans,2021,50,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/tn/soybeans/
+Tennessee,TN,Soybeans,2022,48,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/tn/soybeans/
+Tennessee,TN,Soybeans,2023,51,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/tn/soybeans/
+Tennessee,TN,Soybeans,2024,42,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/tn/soybeans/
+Tennessee,TN,Soybeans,2025,42,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/tn/soybeans/
+Tennessee,TN,Soybeans,2026,52,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/tn/soybeans/
+Tennessee,TN,Wheat,2020,59,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/tn/wheat/
+Tennessee,TN,Wheat,2021,71,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/tn/wheat/
+Tennessee,TN,Wheat,2022,73,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/tn/wheat/
+Tennessee,TN,Wheat,2023,80,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/tn/wheat/
+Tennessee,TN,Wheat,2024,75,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/tn/wheat/
+Tennessee,TN,Wheat,2025,74,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/tn/wheat/
+Tennessee,TN,Wheat,2026,77,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/tn/wheat/
+Texas,TX,Corn,2020,128,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/tx/corn/
+Texas,TX,Corn,2021,128,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/tx/corn/
+Texas,TX,Corn,2022,95,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/tx/corn/
+Texas,TX,Corn,2023,122,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/tx/corn/
+Texas,TX,Corn,2024,112,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/tx/corn/
+Texas,TX,Corn,2025,135,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/tx/corn/
+Texas,TX,Corn,2026,120,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/tx/corn/
+Texas,TX,Cotton,2020,696,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/tx/cotton/
+Texas,TX,Cotton,2021,666,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/tx/cotton/
+Texas,TX,Cotton,2022,734,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/tx/cotton/
+Texas,TX,Cotton,2023,618,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/tx/cotton/
+Texas,TX,Cotton,2024,669,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/tx/cotton/
+Texas,TX,Cotton,2025,629,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/tx/cotton/
+Texas,TX,Cotton,2026,507,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/tx/cotton/
+Texas,TX,Sorghum,2020,63,bu/acre,73.2,YEAR,no,https://greenmatrix.digital/crop/tx/sorghum/
+Texas,TX,Sorghum,2021,61,bu/acre,69,YEAR,no,https://greenmatrix.digital/crop/tx/sorghum/
+Texas,TX,Sorghum,2022,53,bu/acre,41.1,YEAR,no,https://greenmatrix.digital/crop/tx/sorghum/
+Texas,TX,Sorghum,2023,49,bu/acre,52,YEAR,no,https://greenmatrix.digital/crop/tx/sorghum/
+Texas,TX,Sorghum,2024,62,bu/acre,61.3,YEAR,no,https://greenmatrix.digital/crop/tx/sorghum/
+Texas,TX,Sorghum,2025,53,bu/acre,72.6,YEAR,no,https://greenmatrix.digital/crop/tx/sorghum/
+Texas,TX,Sorghum,2026,45,bu/acre,52.4,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/tx/sorghum/
+Texas,TX,Soybeans,2020,34,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/tx/soybeans/
+Texas,TX,Soybeans,2021,38,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/tx/soybeans/
+Texas,TX,Soybeans,2022,20,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/tx/soybeans/
+Texas,TX,Soybeans,2023,25,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/tx/soybeans/
+Texas,TX,Soybeans,2024,32,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/tx/soybeans/
+Texas,TX,Soybeans,2025,32,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/tx/soybeans/
+Texas,TX,Soybeans,2026,31,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/tx/soybeans/
+Texas,TX,Wheat,2020,30,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/tx/wheat/
+Texas,TX,Wheat,2021,37,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/tx/wheat/
+Texas,TX,Wheat,2022,30,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/tx/wheat/
+Texas,TX,Wheat,2023,37,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/tx/wheat/
+Texas,TX,Wheat,2024,31,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/tx/wheat/
+Texas,TX,Wheat,2025,37,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/tx/wheat/
+Texas,TX,Wheat,2026,31,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/tx/wheat/
+Virginia,VA,Corn,2020,122,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/va/corn/
+Virginia,VA,Corn,2021,160,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/va/corn/
+Virginia,VA,Corn,2022,167,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/va/corn/
+Virginia,VA,Corn,2023,157,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/va/corn/
+Virginia,VA,Corn,2024,114,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/va/corn/
+Virginia,VA,Corn,2025,168,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/va/corn/
+Virginia,VA,Corn,2026,169,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/va/corn/
+Virginia,VA,Cotton,2020,772,lb/acre,854,YEAR,no,https://greenmatrix.digital/crop/va/cotton/
+Virginia,VA,Cotton,2021,1109,lb/acre,820,YEAR,no,https://greenmatrix.digital/crop/va/cotton/
+Virginia,VA,Cotton,2022,1131,lb/acre,953,YEAR,no,https://greenmatrix.digital/crop/va/cotton/
+Virginia,VA,Cotton,2023,1122,lb/acre,900,YEAR,no,https://greenmatrix.digital/crop/va/cotton/
+Virginia,VA,Cotton,2024,1136,lb/acre,892,YEAR,no,https://greenmatrix.digital/crop/va/cotton/
+Virginia,VA,Cotton,2025,1127,lb/acre,852,YEAR,no,https://greenmatrix.digital/crop/va/cotton/
+Virginia,VA,Cotton,2026,1038,lb/acre,775,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/va/cotton/
+Virginia,VA,Soybeans,2020,42,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/va/soybeans/
+Virginia,VA,Soybeans,2021,46,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/va/soybeans/
+Virginia,VA,Soybeans,2022,41,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/va/soybeans/
+Virginia,VA,Soybeans,2023,38,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/va/soybeans/
+Virginia,VA,Soybeans,2024,44,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/va/soybeans/
+Virginia,VA,Soybeans,2025,38,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/va/soybeans/
+Virginia,VA,Soybeans,2026,44,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/va/soybeans/
+Virginia,VA,Wheat,2020,60,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/va/wheat/
+Virginia,VA,Wheat,2021,67,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/va/wheat/
+Virginia,VA,Wheat,2022,68,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/va/wheat/
+Virginia,VA,Wheat,2023,78,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/va/wheat/
+Virginia,VA,Wheat,2024,66,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/va/wheat/
+Virginia,VA,Wheat,2025,66,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/va/wheat/
+Virginia,VA,Wheat,2026,55,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/va/wheat/
+Washington,WA,Corn,2020,228,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/wa/corn/
+Washington,WA,Corn,2021,248,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/wa/corn/
+Washington,WA,Corn,2022,220,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/wa/corn/
+Washington,WA,Corn,2023,240,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/wa/corn/
+Washington,WA,Corn,2024,235,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/wa/corn/
+Washington,WA,Corn,2025,251,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/wa/corn/
+Washington,WA,Corn,2026,241,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/wa/corn/
+Washington,WA,Wheat,2020,72.4,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/wa/wheat/
+Washington,WA,Wheat,2021,39.1,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/wa/wheat/
+Washington,WA,Wheat,2022,63.4,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/wa/wheat/
+Washington,WA,Wheat,2023,50.5,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/wa/wheat/
+Washington,WA,Wheat,2024,64.1,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/wa/wheat/
+Washington,WA,Wheat,2025,62.6,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/wa/wheat/
+Washington,WA,Wheat,2026,72.9,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/wa/wheat/
+Wisconsin,WI,Corn,2020,173,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/wi/corn/
+Wisconsin,WI,Corn,2021,180,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/wi/corn/
+Wisconsin,WI,Corn,2022,180,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/wi/corn/
+Wisconsin,WI,Corn,2023,176,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/wi/corn/
+Wisconsin,WI,Corn,2024,174,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/wi/corn/
+Wisconsin,WI,Corn,2025,188,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/wi/corn/
+Wisconsin,WI,Corn,2026,184,bu/acre,179.6,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/wi/corn/
+Wisconsin,WI,Soybeans,2020,52,bu/acre,51,YEAR,no,https://greenmatrix.digital/crop/wi/soybeans/
+Wisconsin,WI,Soybeans,2021,55,bu/acre,51.7,YEAR,no,https://greenmatrix.digital/crop/wi/soybeans/
+Wisconsin,WI,Soybeans,2022,54,bu/acre,49.6,YEAR,no,https://greenmatrix.digital/crop/wi/soybeans/
+Wisconsin,WI,Soybeans,2023,51,bu/acre,50.6,YEAR,no,https://greenmatrix.digital/crop/wi/soybeans/
+Wisconsin,WI,Soybeans,2024,48,bu/acre,50.7,YEAR,no,https://greenmatrix.digital/crop/wi/soybeans/
+Wisconsin,WI,Soybeans,2025,56,bu/acre,53,YEAR,no,https://greenmatrix.digital/crop/wi/soybeans/
+Wisconsin,WI,Soybeans,2026,54,bu/acre,53.3,YEAR - NOV FORECAST,yes,https://greenmatrix.digital/crop/wi/soybeans/
+Wisconsin,WI,Wheat,2020,69,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/wi/wheat/
+Wisconsin,WI,Wheat,2021,75,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/wi/wheat/
+Wisconsin,WI,Wheat,2022,78,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/wi/wheat/
+Wisconsin,WI,Wheat,2023,76,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/wi/wheat/
+Wisconsin,WI,Wheat,2024,82,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/wi/wheat/
+Wisconsin,WI,Wheat,2025,76,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/wi/wheat/
+Wisconsin,WI,Wheat,2026,83,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/wi/wheat/
+Wyoming,WY,Corn,2020,122,bu/acre,171.4,YEAR,no,https://greenmatrix.digital/crop/wy/corn/
+Wyoming,WY,Corn,2021,132,bu/acre,176.7,YEAR,no,https://greenmatrix.digital/crop/wy/corn/
+Wyoming,WY,Corn,2022,153,bu/acre,173.4,YEAR,no,https://greenmatrix.digital/crop/wy/corn/
+Wyoming,WY,Corn,2023,153,bu/acre,177.3,YEAR,no,https://greenmatrix.digital/crop/wy/corn/
+Wyoming,WY,Corn,2024,155,bu/acre,179.3,YEAR,no,https://greenmatrix.digital/crop/wy/corn/
+Wyoming,WY,Corn,2025,145,bu/acre,186.5,YEAR,no,https://greenmatrix.digital/crop/wy/corn/
+Wyoming,WY,Wheat,2020,26,bu/acre,49.7,YEAR,no,https://greenmatrix.digital/crop/wy/wheat/
+Wyoming,WY,Wheat,2021,32,bu/acre,44.3,YEAR,no,https://greenmatrix.digital/crop/wy/wheat/
+Wyoming,WY,Wheat,2022,17,bu/acre,46.5,YEAR,no,https://greenmatrix.digital/crop/wy/wheat/
+Wyoming,WY,Wheat,2023,30,bu/acre,48.7,YEAR,no,https://greenmatrix.digital/crop/wy/wheat/
+Wyoming,WY,Wheat,2024,31,bu/acre,51.2,YEAR,no,https://greenmatrix.digital/crop/wy/wheat/
+Wyoming,WY,Wheat,2025,30,bu/acre,53.3,YEAR,no,https://greenmatrix.digital/crop/wy/wheat/
+Wyoming,WY,Wheat,2026,15,bu/acre,48.1,YEAR,no,https://greenmatrix.digital/crop/wy/wheat/
